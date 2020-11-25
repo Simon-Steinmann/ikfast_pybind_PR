@@ -46,12 +46,12 @@
 
 
 //#define UR5_PARAMS
-#define d1  0.089159
+#define d1  0.1625
 #define a2 -0.42500
 #define a3 -0.39225
-#define d4  0.10915
-#define d5  0.09465
-#define d6  0.0823
+#define d4  0.1333
+#define d5  0.0997
+#define d6  0.0996
 
 // These kinematics find the tranfrom from the base link to the end effector.
 // Though the raw D-H parameters specify a transform from the 0th link to the 6th link,
